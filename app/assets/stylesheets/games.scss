@@ -1,0 +1,19 @@
+// Place all the styles related to the games controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+$gray: #F4F4F4;
+
+
+body {
+  padding: 10px;
+  background: $gray; // Using this variable
+}
+
+.banner {
+  background: yellow;
+  h1 {
+    font-size: 50px;
+  }
+}
+
